@@ -6,10 +6,10 @@
 ### <div align="center">I'm Tom, full-stack developer </div>  
   
 
-- 🔭 I’m currently working on Kispace( A group project )  
+- 🔭 I’m currently working on SintaApp ( A group project )  
   
 
-- 🌱 I’m currently learning Reactjs and   
+- 🌱 I’m currently learning Reactjs 
   
 
 - ⚡ Fun fact: I used to teach skiing!  
